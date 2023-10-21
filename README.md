@@ -1,3 +1,1 @@
-# CortexMxProgramming
-Repository for Udemy course : Embedded System Programming on ARM Cortex Mx..
-Check all courses here : www.fastbitlab.com
+Embedded System Programming on ARM Cortex M4 Basics code
